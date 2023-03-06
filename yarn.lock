@@ -565,9 +565,9 @@
     fastq "^1.6.0"
 
 "@sillylib/sillylib@*":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@sillylib/sillylib/-/sillylib-1.0.0.tgz#52a7a6f73d0374303e34fa32731455908c063a55"
-  integrity sha512-du4m/vNAFkANZ0PqwvYPUA/rUv6pXYssOGvbHMYvTXuJ9Jr3q+tdm7NB/L4TWq5XViJQA24rnxTuFfklh9+X/w==
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@sillylib/sillylib/-/sillylib-1.0.1.tgz#06f8ef6cf2e282c56ec54ff1f91eb6c980e4f927"
+  integrity sha512-aLITGbMwr0MrvfTRUorqhoQGOl8HH3cwJ8Pa+0GinBlgHBY0Kti+P6XpgxA+M3QFu94SQp5PADbahC5oLzbvqQ==
 
 "@tsconfig/node10@^1.0.7":
   version "1.0.9"
